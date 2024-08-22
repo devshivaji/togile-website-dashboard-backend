@@ -28,8 +28,7 @@ dist
 /views/yarn-error.log*
 
 # local env files/views.env*.local
-.env*.local
-.env
+
 # vercel/views/.vercel
 
 # typescript*.tsbuildinfo
